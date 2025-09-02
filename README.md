@@ -1,4 +1,4 @@
-# lilo-emotional-companion
+# Lilo-emotional-companion
 Approach Paper: A Stateful Agentic RAG Architecture for an Emotional AI Companion
 Prepared for: The Emotional AI Companion Project
 
