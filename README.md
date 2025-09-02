@@ -8,7 +8,7 @@
 
 A high-level, interactive overview of the project's vision, architecture, and potential impact can be viewed here:
 
-**[View the Live Demo Webpage](https://asq-sheriff.github.io/lilo-emotional-companion/)**
+**[View the Infographic](https://asq-sheriff.github.io/lilo-emotional-companion/)**
 
 ---
 
